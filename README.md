@@ -2,6 +2,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=smc2315)](https://solved.ac/smc2315)
 
+[![smc2315's GitHub stats](https://github-readme-stats.vercel.app/api?username=smc2315)](https://github.com/smc2315/github-readme-stats)
+
+
 <!--
 **smc2315/smc2315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
