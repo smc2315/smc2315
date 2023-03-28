@@ -1,5 +1,7 @@
-### Hi there 👋
 
+### Interests
+- 재미를 추구하는 삶.
+- 변화에 뒤쳐지지 않는 개발자.
 ### 📚 기술 스택
 
 <div align=left> 
